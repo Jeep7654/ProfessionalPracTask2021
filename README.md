@@ -17,7 +17,7 @@ Question 1: How do we collect personal information from the subject?
 - [ ] Subject can personally input the information that they can / want to provide
 - [ ] Subject send verified and needed documents such as certified copy of documents done by a JP
 
-Question 2: How 
+Question 2: 
 
 #### Principle 7 - Correction of personal information
 
