@@ -17,12 +17,14 @@ Question 1: How do we collect personal information from the subject?
 - [ ] Subject can personally input the information that they can / want to provide
 - [ ] Subject send verified and needed documents such as certified copy of documents done by a JP
 
-Question 2: 
+Question 2: What information is publicly available?
+- [ ] We can make the private information stay private
+- [ ] User can choose whether which information is private and public
 
-#### Principle 7 - Correction of personal information
+#### Principle 8 - Accuracy, etc., of personal information to be checked before use
 
-Consider: How are the users able to change / update their personal information?
-- [ ] Users can change and update their personal information
+Consider: How do we check if personal information is correct?
+- [ ] Users can send verified information such as ID, Passport, etc
 - [ ] Users can 
 
 - [ ] Skaksjdkjk
