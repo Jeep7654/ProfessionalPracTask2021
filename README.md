@@ -13,11 +13,11 @@ Question 2: How are we going to use the collected personal information?
 
 #### Principle 3 - Collection of information from subject
 
-Question 1: How do we collect personal information from the user?
-- [ ] Users can personally input their information 
-- [ ] Users send verified and needed documents such as certified copy of documents done by a JP
+Question 1: How do we collect personal information from the subject?
+- [ ] Subject can personally input the information that they can / want to provide
+- [ ] Subject send verified and needed documents such as certified copy of documents done by a JP
 
-Question 2: 
+Question 2: How 
 
 #### Principle 7 - Correction of personal information
 
