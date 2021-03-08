@@ -15,13 +15,13 @@ Question 2: How are we going to use the collected personal information?
 #### Principle 3 - Collection of information from subject
 
 Question 1: How do we collect personal information from the subject?
-- [ ] Subject can personally input the information that they can / want to provide
+- [ ] As a User I can personally input the information that I am happy to provide
 <!-- the above is getting really close to a well formed user story (which is great). Consider the minor adjustment in phrasing: As a user I can personally input the information that I am happy to provide. -->
-- [ ] Subject send verified and needed documents such as certified copy of documents done by a JP
+- [ ] As a User I can send verified and needed documents such as certified copy of documents done by a JP
 
 Question 2: What information is publicly available?
 - [ ] We can make the private information stay private
-- [ ] User can choose whether which information is private and public
+- [ ] Users can choose what information is private and public
 
 #### Principle 8 - Accuracy, etc., of personal information to be checked before use
 
