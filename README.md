@@ -52,4 +52,43 @@ Question 1: What can we do to not keep personal information for longer than nece
 Question 2: Why do we not keep personal information for too long?
 - [ ] We can prevent misuse of personal information that isn't valuable
 - [ ] We can protect the information until expiry date and then remove from IT System
+---------
+
+## 2. Privacy Policy
+
+The website that I select to create a privacy policy for is [UNTV News and Rescue](https://www.untvweb.com/)
+- UNTV News and Rescue is a public service channel that functions in the country of the Philippines.
+- It also broadcasts 24-hour programming in the Philippines, from News and Rescue to Bible Studies, Morning Shows, etc.
+- The type of data that they collect automatically is the usage of their website, the frequency of visits to their sites and areas.
+
+### Created Privacy Policy
+---
+##### We collect personal information from you, including information about your:
+- Contact information
+- Location
+- Computer or Network
+- Interactions with us
+
+##### We collect your personal information in order to:
+- Give users the best experience when viewing our website.
+- Provide content that is in the users interests.
+- Update users of new changes on the website.
+- Update users on the change of policies that may have occured.
+- Offer services that they may want or need.
+
+##### Besides our staff, we share this information with:
+- Other 3rd party companies in order to provide offers and services that may interest users. Such examples are medical or supplies.
+
+##### Providing some information is optional but:
+- If you choose not to enter email address, we'll be unable to provide offers and services that may be in the users interests.
+- If you choose not to give information pertaining the usage our website we'll be unable to provide the users the best content and user experience.
+
+##### We keep your information safe by storing it in encrypted files and only allowing certain staff to have access to said information.
+
+##### We keep your information for 30 days at which point we securely destroy it by securely erasing all digital data that has been collected from the user.
+
+##### You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at jtri211@mywhitecliffe.com, or +64274890754, or 80 Foremans Road, Islington, Christchurch.
+
+
+
 
