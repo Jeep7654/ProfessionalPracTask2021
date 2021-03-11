@@ -6,7 +6,7 @@
 Question 1: What are reasons why we are collecting peoples personal information for an IT System?
 - [ ] As a user I can create a unique account
 <!-- see the comment on line 19 -->
-- [ ] So that we can uniquely identify a specific user according to their personal information
+- [ ] So we can uniquely identify a specific user according to their personal information
 
 Question 2: How are we going to use the collected personal information?
 - [ ] So we can confirm that the user is truthful in what information they provide
@@ -27,15 +27,29 @@ Question 2: What information is publicly available?
 
 Question 1: How do we secure the personal information of a user?
 - [ ] As a user I can create a unique password that only I can remember / know
-- [ ] We can send a verification email to the user if they wanted to access or change their information
+- [ ] We can verify with the user if they wanted to access or change their information
 
 Question 2: How do we ensure that the information stored isn't misused? 
-- [ ] We can secure the users information by locking the account if incorrectly accessed (i.e wrong password inputted a certain amount of times)
-- [ ] We can email user to verify if they are the ones currently trying to access the account
+- [ ] We can locking the account if incorrectly accessed (i.e wrong password inputted a certain amount of times)
+- [ ] We can email user to verify if they are currently trying to access their account
 
 #### Principle 7 - Correction of personal information
 
+Question 1: What are ways users can corrent their personal information?
+- [ ] As a user I can access and add new information to my account
+- [ ] We allow the users to edit their personal information
 
+Question 2: Why do we want users to correct their personal information?
+- [ ] We can send the user ads that suite their taste
+- [ ] We can make sure no information is invalid
 
+#### Principle 9 - Agency not to keep personal information for longer than necessary
 
+Question 1: What can we do to not keep personal information for longer than necessary?
+- [ ] We can keep peoples personal information for a set amount of time. For example, 30 days.
+- [ ] We can allow users to delete their accounts to remove all personal information in the IT System
+
+Question 2: Why do we not keep personal information for too long?
+- [ ] We can prevent misuse of personal information that isn't valuable
+- [ ] We can protect the information until expiry date and then remove from IT System
 
