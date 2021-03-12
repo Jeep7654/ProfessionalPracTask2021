@@ -85,10 +85,21 @@ The website that I select to create a privacy policy for is [UNTV News and Rescu
 
 ##### We keep your information safe by storing it in encrypted files and only allowing certain staff to have access to said information.
 
-##### We keep your information for 30 days at which point we securely destroy it by securely erasing all digital data that has been collected from the user.
+##### We keep your information for 1 year at which point we securely destroy it by securely erasing all digital information that has been collected from the user.
 
 ##### You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at jtri211@mywhitecliffe.com, or +64274890754, or 80 Foremans Road, Islington, Christchurch.
+---
+### Brief Explanation of how privacy policies are implemented
 
+In the privacy policy that is created we notify the users what kind of information we are collecting. The publicly available info that we are collecting is their behaviour, location, computer and network. But with contact info they can provide that at their volition. By giving their contact info we can offer users different services that is in their interest. But if users don't want to provide such information then we'll be unable to provide them offers, best experience and content. This info will mainly be used by the company but will also be shared with 3rd party companies to again give offers to services that may be in their interest. With this we are implementing the Privacy Principle 3.
+
+We also let the users know of the reasons to why we collect their information. This is to give them the best user experience and content that is suited to their behaviour and interests. Another reason is to give them offers and updates / changes. With this we are implementing the Privacy Principle 1.
+
+Next we also inform the user that the information that we collect will be kept safe. The way we will be keeping their information safe is by storing it in encrypted files that can only be access by certain staff members. This is to prevent the misuse of information and loss asd well. With this we are implementing the Privacy Principle 5.
+
+In the privacy policy we also inform the users that they have the right to ask for a copy of any personal information that we have. They also have the right to contact us to correct any personal information that they think it is wrong. With this we are implementing the Privacy Principle 7.
+
+Lastly we only store the information that we have collected for only 1 year. After that 1 year we will securely erase all digital information that has been collected from the users. With this we are implementing the Privacy Principle 9. 
 
 
 
